@@ -1,0 +1,26 @@
+Entidades de html:
+
+luego para poder trabajar en vi desde la terminal es:
+    vi nombre_del_archivo.formato_del_archivo
+
+dentro de vi podemos usar comandos para movernos y realizar distintas acciones dentro de esta terminal:
+    o: para espacio.
+    d: borrar 
+    ctrl + c: poner un comando para salir, guardar etc,
+        dentro de esto podemos hacer ---> wq: para guardar.
+                                          aq: para salir sin guardar.
+                                          h: izquierda.
+                                          j: derecha.
+                                          k: arriba.
+                                          l: abajo.
+                                          ^ o 0: para el inicio de la linea.
+                                          $: para el final de la linea.
+                                          w: para avanzar una palabra.
+                                          b: para retroceder una palabra.
+                                          ctrl-f: para avanzar una pantalla completa.
+
+
+
+&gt; >
+&lt; <
+&amp; &
