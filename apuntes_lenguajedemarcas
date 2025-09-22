@@ -21,6 +21,85 @@ dentro de vi podemos usar comandos para movernos y realizar distintas acciones d
 
 
 
-&gt; >
+&gt; > 
 &lt; <
 &amp; &
+&nbsap; -> representa un espacio no rompible.
+&quot; -> "
+&apos; -> ' 
+
+Tambien hay con numeros que empiezan siempre con &# y acaba con ;. 
+Y cuando son solo con letras & y ;.
+
+Al abrir con navegador mi archivo cuando tengo caracteres UTF-8 no las refleja, entonces hay que decirle que a la hora de ver la pagina publicada hay que decirle que los use.
+
+IMPORTANTE!!!!:
+Para abrir un servidor web con python tendrias que usar en la terminal este codigo:
+    python3 -m http.server -> esto abrira automaticamente desde el puerto 8000, cuando son puertos debajo del 1000 hay que abrirlos como administración y los puertos 
+    80 son para servidores profesionales.
+
+Y para conectarse a un servidor de manera local tienes que poner en el buscador http://localhost:8000 ( depende de la terminal en la que estes)/archivo que quieras ver
+
+
+<meta charset="iso-8859-1> esto escribira todo codigo ASCII por lo tanto no interpretará nada que no contenga el código ASCII
+
+
+HTML comandos:
+    <hr> ralla en horizontal
+    <br> salto de linea
+    <a> atributo para crear enlaces 
+
+
+URL = formado por un protocolo de red -> http://
+                                         https://
+                                         ftp://
+                                         ssh://
+luego va la direccion de la IP o nombre del dominio:puerto/carpeta/archivo
+El href que va dentro del atributo de <a> va dentro del atributo de apertura -> <a href="dominio">Contenido</a>
+
+Hay atributos obligatorios y opcionales.
+
+style -> atributo para personalizar nuestras páginas
+    Dentro de estr atributo hay: 
+    color; -----|
+    background;-----> cada uno tiene unos valores para asignarle.
+    
+
+
+Tambien se pueden poner los colores por numeros que cada color como maximo puede llegar a 255 de su valor de intensidad.
+Para sacar el color rojo tenemos que poner el color rojo en RGB que en este caso seria R=255 G=0 B=0 y en codigo 
+
+Simbolos hexadecimales van del 0-9 y luego para seguir con los demas numeros tendriamos que poner con letras en minusculas
+
+para los colores escribirlos en letras y numeros tendremos que saber los hexadecimales para asi poder describirlos bien 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
